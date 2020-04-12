@@ -1,7 +1,7 @@
 ### RocketShoes
-<img src="https://github.com/raphaom35/RocketShoes/blob/master/home.PNG" width="430" height="350" /> 
+<img src="https://github.com/raphaom35/RocketShoes/blob/master/home.PNG" width="500" height="350" /> 
 
-<img src="https://github.com/raphaom35/RocketShoes/blob/master/cart.PNG" width="430" height="350" />
+<img src="https://github.com/raphaom35/RocketShoes/blob/master/cart.PNG" width="500" height="350" />
 
 ## Available Scripts
 
